@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "latest",
+        "@tailwindcss/vite": "latest",
+        "autoprefixer": "latest",
+        "axios": "^1.8.2",
+        "concurrently": "^9.0.1",
+        "depcheck": "^1.4.7",
+        "laravel-vite-plugin": "latest",
+        "postcss": "latest",
+        "tailwindcss": "latest",
+        "vite": "latest"
+    }
+}
